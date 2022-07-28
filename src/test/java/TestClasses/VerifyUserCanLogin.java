@@ -37,9 +37,16 @@ public class VerifyUserCanLogin {
 	public void beforeClass() throws IOException
 	{
 		ExtentReporter= BaseClass1.getHtmlReporter();
+		//ghhhhhhh
 		report = BaseClass1.getReports();
+		//jhghjhhashgsgh
 		test=BaseClass1.getExtentTest("VerifyUserCanLogin");
+		//ndghghas
 		driver = BaseClass1.getDriver("chrome");
+		//jkasdasd
+		//jnsdsad
+		//jhsgdgs
+		//jhgsg
 	}
 	
 	@BeforeMethod
