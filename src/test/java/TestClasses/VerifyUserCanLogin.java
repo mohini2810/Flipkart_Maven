@@ -30,15 +30,20 @@ public class VerifyUserCanLogin {
 	LoginPage lp;
 	
 	ExtentHtmlReporter ExtentReporter;
+<<<<<<< HEAD
 	//uretegdv
 	ExtentReports report;
 	//utdgfbf
+=======
+	ExtentReports report;
+>>>>>>> master
 	ExtentTest test;
 	
 	@BeforeClass
 	public void beforeClass() throws IOException
 	{
 		ExtentReporter= BaseClass1.getHtmlReporter();
+		//kjgcfdfcdjhsdghfhg
 		report = BaseClass1.getReports();
 		test=BaseClass1.getExtentTest("VerifyUserCanLogin");
 		
