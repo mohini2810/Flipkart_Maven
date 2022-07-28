@@ -30,9 +30,12 @@ public class VerifyUserCanLogin {
 	LoginPage lp;
 	
 	ExtentHtmlReporter ExtentReporter;
-	//uretegdv
+
 	ExtentReports report;
-	//utdgfbf
+
+
+	ExtentReports report;
+
 	ExtentTest test;
 	
 	@BeforeClass
