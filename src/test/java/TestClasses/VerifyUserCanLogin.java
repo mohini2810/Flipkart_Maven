@@ -28,11 +28,14 @@ public class VerifyUserCanLogin {
 	
 	static WebDriver driver;
 	LoginPage lp;
-	
 	ExtentHtmlReporter ExtentReporter;
-	//hjhjf
 	ExtentReports report;
-	//hjhgdhdg
+
+
+	
+	ExtentReports report;
+	
+
 	ExtentTest test;
 	
 	@BeforeClass
