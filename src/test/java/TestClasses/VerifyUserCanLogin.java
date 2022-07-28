@@ -38,10 +38,7 @@ public class VerifyUserCanLogin {
 	{
 		ExtentReporter= BaseClass1.getHtmlReporter();
 		report = BaseClass1.getReports();
-		//gdfdrd
 		test=BaseClass1.getExtentTest("VerifyUserCanLogin");
-		//comment for tst2
-		
 		driver = BaseClass1.getDriver("chrome");
 	}
 	
